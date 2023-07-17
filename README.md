@@ -12,6 +12,7 @@ First and foremost you need to register for a SteamAPI key [here](https://steamc
 | `-i` | Public ipv4 of your steam server |
 | `-k` | Your SteamAPI key |
 | `-p` | Port number that the server runs/listens on |
+| `-h` | Shows what each argument does |
 
 
 Running this from command line is as simple as ```./steamapi.sh -i YOURIP -k YOURSTEAMAPIKEY -p 16261```
