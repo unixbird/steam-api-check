@@ -29,4 +29,4 @@ Using this in CheckMK is about as easy as using this on the CLI.
 
 
 # Special Thanks
-To [AnastasiosT](github.com/AnastasiosT) For the optarg portion and helping me integrate this into CheckMK
+To [AnastasiosT](github.com/AnastasiosT) For the optarg portion and helping me integrate this into CheckMK and for figuring out how to do some of this with JQ even if I didn't end up using JQ. 
