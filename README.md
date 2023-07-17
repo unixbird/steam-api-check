@@ -34,6 +34,6 @@ Using this in CheckMK is about as easy as using this on the CLI.
 To [AnastasiosT](github.com/AnastasiosT) For the optarg portion and helping me integrate this into CheckMK and for figuring out how to do some of this with JQ even if I didn't end up using JQ. 
 
 
-##Known Issues
+## Known Issues
 1. There isn't json parsing in the result so it looks very messy at this time but still somewhat readable.
 2. If you are looking for ALL of your servers this may not work as intended via CheckMK as any results == server is OK. However if this is alright then this may not be an issue for you.
